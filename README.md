@@ -5,7 +5,7 @@ Be sure to follow my big brother on bsky @danny.page, and you can follow my work
 
 To use this while you play the game, just remember that character teams are always selected in the order of Point, Shell, and Anchor. Just select the character the code generates, and the associated assist. That's it. 
 
-Support the Pallate Swap and countless other characters by checking out https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/12 or the Havengers Discord where they publish new characters all the time and release new builds. 
+Support the Pallate Swap and countless other characters by checking out https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/12 or the Havengers Discord and Modded Marvel Discord where they publish new characters all the time and release new builds. 
 
 I will try to keep this code up to date when new characters get added to the stable builds of the game, but no promises. But to add a character, simply make a new line in the Character Directory in the following format:
   "Character Name": ["Assist 1", "Assist 2", "Assist 3"],
