@@ -1,4 +1,4 @@
-Me and Six of ScanlineMedia.com needed a way to randomize character select in the Pallete Swap mod of Ultimate Marvel vs Capcom 3. With the help of my older brother, we were able to make that vision come to fruition. 
+Me and Six of ScanlineMedia.com needed a way to randomize character select in the Palette Swap mod of Ultimate Marvel vs Capcom 3. With the help of my older brother, we were able to make that vision come to fruition. 
 The code is dead simple, but ideally very easy to use on a site like Trinket to be able to randomize all the characters and assists. 
 If you have improvements or wanna make changes, be my guest. I am not a coder by trade, but I'd love to see this used elsewhere. 
 Be sure to follow my big brother on bsky @danny.page, and you can follow my work at ScanlineMedia.com. 
